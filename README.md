@@ -29,3 +29,8 @@ Researched a cybercrime case study and created a prevention checklist to promote
 Links for tasks are given below
 
 1) Canva Link : https://www.canva.com/design/DAHFCU-ANSc/Yb3mMCop1dP81xwdU3GPpg/edit?utm_content=DAHFCU-ANSc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+2) LINKEDIN PROFILE : https://www.linkedin.com/in/vishal-andhale-68778437a/
+3) Kaggle Profile : https://www.kaggle.com/vishalandhale21
+4) Github Profile : https://github.com/vishal25bai10992-ui
+5) Hacckerrank Profile : https://www.hackerrank.com/profile/vishal_25bai1091
+6) Digital Literacy Quiz : https://docs.google.com/forms/d/e/1FAIpQLScEUVF4Eif1cydVI8xst_USlvJV1X6h6HbTIID8i4b3mxnEOQ/viewform
